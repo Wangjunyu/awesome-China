@@ -4,9 +4,10 @@ Since a lot of foreigner want to know more about China, some of them come to vis
 
 ## Warnings
  * No policital issue.
- * No religion issue.
+ * No judugement about religion issue.
 
 ## Music 
+ * [Lyrics Translations](https://lyricstranslate.com/): There are some Chinese lyrics can be translated into English or other languages.
 
 ## Movies
 
