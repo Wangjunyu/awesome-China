@@ -1,6 +1,6 @@
 # Awesome China
 
-Since a lot of foreigner want to know more about China, some of them come to visit. This repo is trying to show Chinese culture\movies\musice and some basic travelling tips of China.
+Since a lot of foreigner want to know more about China, some of them come to visit. This repo is trying to show Chinese culture\movies\musices and some basic travelling tips of China.
 
 You are welcome to join us making the project better.
 
@@ -38,3 +38,6 @@ You are welcome to join us making the project better.
  * [Hitchwiki: the Hitchhiker's guide to Hitchhiking](http://hitchwiki.org/en/Main_Page)
 ## Others
 
+### Wechat
+ * Nowadays Chinese all use wechat, it is highly recommend having a wechat account.
+ *   
